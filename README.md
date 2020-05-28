@@ -61,7 +61,7 @@ We have one fact table (songplays) containing facts associated to an event.
 There is one main fact table containing all the measures associated to each event. 
 There are 4 dimensional tables (users, songs, artists, and time) in which each of the respective primary keys is referenced from the fact table.
 
-[UML NOTATION](UML notation.jpeg)
+[UML_NOTATION](UML_notation.jpeg)
 
 ### Database schema design:
 
